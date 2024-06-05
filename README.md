@@ -40,7 +40,7 @@ This is a SpriteKit-based game where the player can create and manipulate balls,
 * Xcode 12.0+
 * Swift 5.0+
 
-## Future Development
+## Possible Development
 
 * Implement animations for ball creation and destruction
 * Add sound effects for ball creation and destruction
